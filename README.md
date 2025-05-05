@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Mustofa a.k.a Fadzzz and I'm a programmer, from Indonesia</h2>
+<h2 align="left">Hi! My name is Mustofa Fadilah a.k.a Fadzzz and I'm a programmer, from Indonesia</h2>
 
 I'am just amature programmer who interested on coding and arduino
 
